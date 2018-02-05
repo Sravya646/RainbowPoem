@@ -1,4 +1,4 @@
-This is a Rainbow Poem and the unicorns
+This is a Rainbow Poem and the unicorns and Dogs
 
 Red
 Orange
@@ -9,4 +9,6 @@ Pink
 Yellow
 Purple
 
+
 These are the colors in the rainbow
+Dogs are Pugs, Shih tzu.
