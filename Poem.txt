@@ -1,9 +1,10 @@
-This is a Rainbow Poem
+This is a Rainbow Poem and the unicorns
 
 Red
 Orange
 Blue 
 Green
+Unicorns
 Yellow
 Purple
 
